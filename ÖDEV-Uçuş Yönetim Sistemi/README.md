@@ -1,6 +1,6 @@
 # Uçuş Yönetim Sistemi
 
-![image](FlightManagementSystem.drawio)
+![image](FlightManagementSystem.drawio.png)
 
 Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 
